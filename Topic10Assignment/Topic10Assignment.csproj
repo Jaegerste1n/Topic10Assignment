@@ -89,5 +89,17 @@
   <ItemGroup>
     <None Include="Resources\unnamed %282%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Swissbit_2GB_PC2-5300U-555.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61fEqrD9pXL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45877.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\710LKWKvtAL._AC_UF894,1000_QL80_.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

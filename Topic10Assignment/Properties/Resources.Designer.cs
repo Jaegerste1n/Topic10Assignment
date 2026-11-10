@@ -63,6 +63,16 @@ namespace Topic10Assignment.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Cpu {
+            get {
+                object obj = ResourceManager.GetObject("Cpu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap MarioDead {
             get {
                 object obj = ResourceManager.GetObject("MarioDead", resourceCulture);
@@ -83,9 +93,39 @@ namespace Topic10Assignment.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap PowerSupply {
+            get {
+                object obj = ResourceManager.GetObject("PowerSupply", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ram {
+            get {
+                object obj = ResourceManager.GetObject("Ram", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Shep {
             get {
                 object obj = ResourceManager.GetObject("Shep", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ssd {
+            get {
+                object obj = ResourceManager.GetObject("Ssd", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
