@@ -31,7 +31,7 @@ namespace Topic10Assignment
                 lblMarioComplaint.Text = "I'M GOING TO STOMP YOU INTO A STAIN ON THE CONCRETE YOU FERMENTED TURTLE LEG";
                 lblMarioComplaint.Location = new Point(200, 350);
                 lblMarioComplaint.Font = new Font("Impact", 12, FontStyle.Bold);
-                imgMario.BackColor = Color.DarkRed;
+                imgMario.BackColor = Color.Red;
             }
             else
             {
@@ -95,18 +95,18 @@ namespace Topic10Assignment
 
         private void btnInputPeripheral_Click(object sender, EventArgs e)
         {
-            imgComponent.Image = Properties.Resources.MarioEyWhatGives;
-            lblDescription.Text = "Placeholder";
-            lblDesc2.Text = "Placeholder";
+            imgComponent.Image = Properties.Resources.Inputs;
+            lblDescription.Text = "External devices that send data and/or signals to the computer.";
+            lblDesc2.Text = "";
             lblDescription.Visible = true;
             lblDesc2.Visible = true;
         }
 
         private void btnOutputPeripheral_Click(object sender, EventArgs e)
         {
-            imgComponent.Image = Properties.Resources.MarioEyWhatGives;
-            lblDescription.Text = "Placeholder";
-            lblDesc2.Text = "Placeholder";
+            imgComponent.Image = Properties.Resources.Outputs;
+            lblDescription.Text = "External devices that receive data and/or signals from the computer";
+            lblDesc2.Text = "and convert it into some tangible form, such as sound or video";
             lblDescription.Visible = true;
             lblDesc2.Visible = true;
         }

@@ -46,6 +46,7 @@
             // 
             // btnThatKillsMario
             // 
+            this.btnThatKillsMario.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnThatKillsMario.Enabled = false;
             this.btnThatKillsMario.Font = new System.Drawing.Font("Old English Text MT", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThatKillsMario.Location = new System.Drawing.Point(570, 276);
@@ -72,6 +73,7 @@
             // 
             // btnCPU
             // 
+            this.btnCPU.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnCPU.Font = new System.Drawing.Font("GOST Common", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCPU.Location = new System.Drawing.Point(12, 12);
             this.btnCPU.Name = "btnCPU";
@@ -83,6 +85,7 @@
             // 
             // btnRAM
             // 
+            this.btnRAM.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnRAM.Font = new System.Drawing.Font("GOST Common", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnRAM.Location = new System.Drawing.Point(12, 41);
             this.btnRAM.Name = "btnRAM";
@@ -94,6 +97,7 @@
             // 
             // btnSSD
             // 
+            this.btnSSD.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnSSD.Font = new System.Drawing.Font("GOST Common", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSSD.Location = new System.Drawing.Point(12, 70);
             this.btnSSD.Name = "btnSSD";
@@ -105,6 +109,7 @@
             // 
             // btnPowerSupply
             // 
+            this.btnPowerSupply.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnPowerSupply.Font = new System.Drawing.Font("GOST Common", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPowerSupply.Location = new System.Drawing.Point(12, 99);
             this.btnPowerSupply.Name = "btnPowerSupply";
@@ -116,6 +121,7 @@
             // 
             // btnInputPeripheral
             // 
+            this.btnInputPeripheral.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnInputPeripheral.Font = new System.Drawing.Font("GOST Common", 6.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnInputPeripheral.Location = new System.Drawing.Point(12, 128);
             this.btnInputPeripheral.Name = "btnInputPeripheral";
@@ -127,6 +133,7 @@
             // 
             // btnOutputPeripheral
             // 
+            this.btnOutputPeripheral.Cursor = System.Windows.Forms.Cursors.Help;
             this.btnOutputPeripheral.Font = new System.Drawing.Font("GOST Common", 5.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOutputPeripheral.Location = new System.Drawing.Point(12, 157);
             this.btnOutputPeripheral.Name = "btnOutputPeripheral";

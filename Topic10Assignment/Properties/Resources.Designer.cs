@@ -73,6 +73,16 @@ namespace Topic10Assignment.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Inputs {
+            get {
+                object obj = ResourceManager.GetObject("Inputs", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap MarioDead {
             get {
                 object obj = ResourceManager.GetObject("MarioDead", resourceCulture);
@@ -86,6 +96,16 @@ namespace Topic10Assignment.Properties {
         internal static System.Drawing.Bitmap MarioEyWhatGives {
             get {
                 object obj = ResourceManager.GetObject("MarioEyWhatGives", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Outputs {
+            get {
+                object obj = ResourceManager.GetObject("Outputs", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

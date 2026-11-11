@@ -81,6 +81,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Examples-of-Output-Devices-image-1024x576.webp" />
     <None Include="Resources\unnamed %281%29.png" />
   </ItemGroup>
   <ItemGroup>
@@ -100,6 +101,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\710LKWKvtAL._AC_UF894,1000_QL80_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Input-Devices.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
